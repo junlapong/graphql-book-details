@@ -14,6 +14,8 @@ URL Endpoint: http://localhost:8080/graphql
 
 The easiest way to try out and explore a GraphQL API is to use a tool like [GraphQL Playground](https://github.com/prisma/graphql-playground). Download it and run it.
 
+or GraphiQL: http://localhost:8080/graphiql
+
 ### Example Query
 
 ```graphql
